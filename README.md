@@ -8,3 +8,5 @@ IV Semestre 2024A
 
 * [Proyecto](ProyectoClientesApp-master)
 * [Ejercicio](cajero)
+* [Taller](musica-master)
+* [Parcial](parciald)
