@@ -8,4 +8,3 @@ IV Semestre 2024A
 
 * [Proyecto](ProyectoClientesApp-master)
 * [Ejercicio](cajero)
-)
